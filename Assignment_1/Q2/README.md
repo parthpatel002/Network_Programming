@@ -26,7 +26,7 @@ To run a client:
 The given problem asks to design and implement a group messaging system (i.e. a server and multiple clients) using message queues. Different clients can create and join different groups and send messages to each group that they have joined. The clients cannot communicate directly with each other and the server program acts as a central authority to relay messages across different clients belonging to the same group.
 
 ## CLI Details:
-The following screenshots depict communication between two clients, C1 (left) and C2 (right):
+The following screenshots depict communication between two clients, C1 (top) and C2 (bottom):
 
 1. Both C1 and C2 register as users on the server (via option 4). They get unique user IDs from the server.
 
