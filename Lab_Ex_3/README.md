@@ -10,7 +10,7 @@ This folder contains my solutions for lab exercise 3 of on-campus Network Progra
 This code is implemented in `C` language. To run it, use the commands:
 ```sh
 make
-./max_connections WEBSITE\_URL
+./max_connections WEBSITE-URL
 ``` 
 
 ## Overview:
