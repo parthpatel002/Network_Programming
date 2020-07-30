@@ -17,7 +17,7 @@ make
 The given problem asks to build a bash-like shell to execute terminal commands.
 
 ## CLI Details:
-The following is a screenshot of the bash-like minimal shell implementation:
+The following is a screenshot of the bash-like shell implementation:
 
 ![Custom Shell CLI](./imgs/cli.png)
 
