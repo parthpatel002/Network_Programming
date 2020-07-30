@@ -14,7 +14,7 @@ make
 ``` 
 ## Introduction/Problem Statement:
 
-The given problem asks to build a bash-like minimal shell to execute common terminal commands.
+The given problem asks to build a bash-like shell to execute terminal commands.
 
 ## CLI Details:
 The following is a screenshot of the bash-like minimal shell implementation:
