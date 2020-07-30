@@ -2,7 +2,7 @@
 
 This folder contains my solutions for part 1 of assignment 1 of on-campus Network Programming (IS F462) course. The file description is as follows:
 
-1. `shell.c`: It contains implementation of a bash-like minimal shell to execute common terminal commands. 
+1. `shell.c`: It contains implementation of a bash-like shell to execute terminal commands. 
 2. `makefile`: It compiles the code to an executable file `shell`.
 3. `DesignQuestion1.pdf`: It describes the various design choices made while implementing the solution.
 
