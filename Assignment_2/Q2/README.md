@@ -1,4 +1,4 @@
-# Network Programming Assignment 2 - Part 2
+# Network Programming Assignment 2 - Part 2 (TFTP Server - RFC 1350)
 
 This folder contains my solutions for part 2 of assignment 2 of on-campus Network Programming (IS F462) course. The file description is as follows:
 
